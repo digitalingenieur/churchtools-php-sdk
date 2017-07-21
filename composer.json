@@ -1,0 +1,22 @@
+{
+    "name": "digitalingenieur/churchtools-php-sdk",
+    "description": "Churchtools PHP SDK to ease working with the api in php.",
+    "license": "LGPL-3.0+",
+    "authors": [
+        {
+            "name": "Samuel Heer",
+            "homepage": "https://github.com/digitalingenieur"
+        }
+    ],
+    "require": {
+        "symfony/dotenv": "^3.3",
+        "guzzlehttp/guzzle": "^6.2",
+        "illuminate/support": "^5.4",
+        "illuminate/database": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Diging\\ChurchtoolsSDK\\": "src/"
+        }
+    }
+}
