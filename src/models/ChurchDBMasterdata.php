@@ -1,6 +1,6 @@
 <?php
 
-namespace Diging\ChurchtoolsAPI\Models;
+namespace Diging\ChurchtoolsSDK\Models;
 
 class ChurchDBMasterdata extends Model{
 

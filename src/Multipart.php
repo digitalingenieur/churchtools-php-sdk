@@ -1,6 +1,6 @@
 <?php 
 
-namespace Diging\ChurchtoolsAPI;
+namespace Diging\ChurchtoolsSDK;
 
 class Multipart
 {

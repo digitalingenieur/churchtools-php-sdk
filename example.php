@@ -8,11 +8,11 @@
  * @license LGPL-3.0+
  */
 
-use Diging\ChurchtoolsAPI\Request;
-use Diging\ChurchtoolsAPI\Models\Person;
-use Diging\ChurchtoolsAPI\Models\Event;
-use Diging\ChurchtoolsAPI\Models\Calendar;
-use Diging\ChurchtoolsAPI\Models\ChurchDBMasterdata;
+use Diging\ChurchtoolsSDK\Request;
+use Diging\ChurchtoolsSDK\Models\Person;
+use Diging\ChurchtoolsSDK\Models\Event;
+use Diging\ChurchtoolsSDK\Models\Calendar;
+use Diging\ChurchtoolsSDK\Models\ChurchDBMasterdata;
 
 
 /** @var Composer\Autoload\ClassLoader */

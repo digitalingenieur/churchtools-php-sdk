@@ -1,8 +1,8 @@
 <?php
 
-namespace Diging\ChurchtoolsAPI\Models;
+namespace Diging\ChurchtoolsSDK\Models;
 
-use Diging\ChurchtoolsAPI\Request;
+use Diging\ChurchtoolsSDK\Request;
 use Illuminate\Support\Str;
 
 
